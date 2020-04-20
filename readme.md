@@ -15,4 +15,24 @@
     <a style="position: absolute; top: 20%; left: 20%; width: 50%; height: 25%" href="https://www.amazon.com"></a>
     </img>
 </p>
+
+
+
+
+<p>
+  <map name="beachmap">
+    <area href="/" shape="poly" coords="17,51,42,35,66,51,66,89,17,89"
+      alt="Beach hut" title="Beach hut - where you get changed">
+    <area shape="circle" coords="99,92,12" nohref alt="">
+    <area href="/" shape="circle" coords="99,92,23"
+      alt="Life ring" title="Life ring - to help you swim">
+    <area href="/" shape="rect" coords="129,27,171,52"
+      alt="Flag" title="Flag - says if it safe to swim">
+  </map>
+<p><img src="images/tibco.jpg" alt="" usemap="#beachmap"></p>
+</p>
+
+
+
+
 </html>
