@@ -1,6 +1,6 @@
 
 ![Alt text](images/test.svg)
-<img src="images/test.svg">
+<img src="images/test.svg?sanitize=true">
 
 <html>
 <img src="images/tibco.jpg" usemap="#imagemap">
