@@ -1,4 +1,7 @@
 
+![alt text](https://github.com/acnmartens81/TIBCO-Workshops/tree/master/images/test.svg "Logo Title Text 1")
+
+
 <html>
 <img src="images/tibco.jpg" usemap="#imagemap">
 <map name="imagemap">
