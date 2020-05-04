@@ -1,6 +1,9 @@
 
+[![Build Status](https://img.shields.io/travis/markdown-it/markdown-it/master.svg?style=flat)](https://travis-ci.org/markdown-it/markdown-it)
+
+
 <html>
-<iframe src="images/test.svg"></iframe>
+<iframe src="images/test.svg?sanitization=false"></iframe>
 </html>
 
 [![image-text](images/test.svg?sanitize=true)](https://www.tibco.com)
