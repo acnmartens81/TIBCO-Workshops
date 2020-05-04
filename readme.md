@@ -1,4 +1,7 @@
 
+<html>
+<iframe src='images/test.svg?sanitize=true'></iframe>
+</html>
 
 [![image-text](images/test.svg?sanitize=true)](https://www.tibco.com)
 
