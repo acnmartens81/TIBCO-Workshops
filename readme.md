@@ -1,6 +1,6 @@
 
 <html>
-<iframe src='images/test.svg?sanitize=true'></iframe>
+<iframe src="images/test.svg"></iframe>
 </html>
 
 [![image-text](images/test.svg?sanitize=true)](https://www.tibco.com)
