@@ -1,4 +1,7 @@
 
+
+[![image-text](images/test.svg?sanitize=true)](https://www.tibco.com)
+
 ![Alt text](images/test.svg)
 <img src="images/test.svg?sanitize=true">
 <img src="images/test.svg?sanitize=false">
